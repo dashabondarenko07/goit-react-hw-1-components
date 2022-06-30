@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { Description, StatList, StatListItem } from './Profile.styled';
+import { StatList, StatListItem } from './Profile.styled';
 
 export const Profile = ({
   username,

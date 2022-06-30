@@ -8,7 +8,3 @@ export const Status = styled.span`
     return p.isOnline ? p.theme.colors.green : p.theme.colors.red;
   }};
 `;
-export const Text = styled.p`
-  margin: 0;
-  padding: 0;
-`;
